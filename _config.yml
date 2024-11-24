@@ -48,8 +48,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Chirag and I'm a Senior Engineering Manager in Uplight. 
+  Hi there! I’m a passionate software engineer turned seasoned leader with over a decade of experience in the tech world. I began my journey as a Java/J2EE engineer, ventured into Ruby on Rails, and grew from leading frontend and full-stack teams to managing multiple teams as a Senior Software Engineering Manager.
+  
+  I have a deep love for technology, architectures, and simplifying complexities—all while keeping a strong business focus. Throughout my career, I’ve built and nurtured high-performing teams, guided them in their growth, and delivered technically complex, multi-team, and high-impact projects. I thrive in dynamic, startup-like environments that challenge me and offer opportunities to learn and grow.
 
+  My expertise spans building web applications, designing backend APIs and microservices, crafting intuitive frontend interfaces, and engineering enterprise-level SaaS solutions. While I’m particularly passionate about creating a positive impact on the environment, I’m open to any domain where I can make a meaningful difference.
+
+  Let’s connect! Feel free to reach out via email or connect with me on LinkedIn—I’d love to chat and explore new opportunities.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -99,9 +104,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      - Reading about businesses
+      - Watching Biographies 
+      - Listening to music (Folk, Sufi and Rap)
+      - Playing cricket
    
 
 # Footer
